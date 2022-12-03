@@ -1,4 +1,5 @@
-# Campus Discovery Web App (migrated from github.gatech.edu) Formerly schou35.
+# Campus Discovery Web App
+Migrated from github.gatech.edu, formerly schou35.
 
 ## Frontend Access
 1. Go to Frontend Folder
